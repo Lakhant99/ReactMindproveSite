@@ -7,7 +7,7 @@ import Contact from "../pages/Contact";
 
 function AppRoutes() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/ReactMindproveSite">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
