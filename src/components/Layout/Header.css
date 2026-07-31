@@ -1,0 +1,69 @@
+.logo-white-mindprov{
+    width: 29%;
+    position: absolute;
+    top: -24px;
+}
+.single-service-item {
+    height: 335px;
+}
+img.logo-white-mindprov_footer {
+    margin-bottom: -53px;
+    position: relative;
+    left: -30px;
+    width: 50%;
+    top: -28px;
+}
+.footer .footer-text p {
+    margin-top: unset;
+}
+#myVideo {
+    min-width: 100%; 
+    min-height: 100%;
+}
+.how-box-one {
+    height: 370px;
+}
+.how-it-work {
+    padding: 0px 0px 100px 0px;
+}
+.about {
+    padding: 100px 0px 40px;
+}
+
+.location ul li:first-child {
+        font-size: 17px !important;
+        font-weight: bold;
+}
+
+/* Navigation container */
+.news .sec-title {
+    margin: 0;
+}
+svg.swiper-navigation-icon {
+    display: none;
+}
+.swiper-nav {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 30px;
+}
+
+/* Navigation buttons */
+.swiper-nav .swiper-button-prev,
+.swiper-nav .swiper-button-next {
+    position: static;           /* Remove Swiper's absolute positioning */
+    color: #26cdff;
+    font-size: 24px;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    height: 40px;
+    width: 40px;
+    border: 2px solid #26cdff;
+    line-height: 36px;
+    text-align: center;
+    margin-left: 10px;
+    display: inline-block;
+    -webkit-transition: color .3s ease;
+    transition: color .3s ease;
+}

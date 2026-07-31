@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Aim of Our Business",
+    "description": "Our aim to deliver high-quality custom software, SaaS products, and modern applications that solve real-world challenges, enhance user experience, and create long-term value for our clients across industries.",
+    "image": "images/news/1.jpg",
+    "icon": "images/icons/how-1.png"
+  },
+  {
+    "id": 2,
+    "title": "Business Analytics Policy",
+    "description": "Our policy reflects MindProve Technologies commitment to leveraging data responsibly for smarter decisions and sustainable growth.",
+    "image": "images/news/2.jpg",
+    "icon": "images/icons/how-2.png"
+  },
+  {
+    "id": 3,
+    "title": "Global consumer insights",
+    "description": "Our global consumer insights focus on understanding evolving customer behaviors, preferences, and digital expectations across markets to deliver impactful and future-ready solutions.",
+    "image": "images/news/3.jpg",
+    "icon": "images/icons/how-3.png"
+  }
+]
