@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactMindproveSite/static/css/main.26cf543c.css",
-    "main.js": "/ReactMindproveSite/static/js/main.0a987354.js",
+    "main.js": "/ReactMindproveSite/static/js/main.12222406.js",
     "__html_dd7b4fc6_0.js": "/ReactMindproveSite/static/js/__html_dd7b4fc6_0.2f0f0879.chunk.js",
     "__html_1642841b_0.js": "/ReactMindproveSite/static/js/__html_1642841b_0.2f0f0879.chunk.js",
     "__html_b24da4ea_0.js": "/ReactMindproveSite/static/js/__html_b24da4ea_0.2f0f0879.chunk.js",
@@ -129,6 +129,6 @@
   },
   "entrypoints": [
     "static/css/main.26cf543c.css",
-    "static/js/main.0a987354.js"
+    "static/js/main.12222406.js"
   ]
 }
