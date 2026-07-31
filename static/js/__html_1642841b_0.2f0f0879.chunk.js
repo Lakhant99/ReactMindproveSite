@@ -1,0 +1,2 @@
+(()=>{"use strict";document.referrer&&document.location.host&&document.referrer.match(new RegExp("^https?://"+document.location.host))&&document.getElementById("back-link").setAttribute("href",document.referrer)})();
+//# sourceMappingURL=__html_1642841b_0.2f0f0879.chunk.js.map
